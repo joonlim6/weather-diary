@@ -160,6 +160,4 @@ public class DiaryService {
         return resultMap;
     }
 
-
-
 }
